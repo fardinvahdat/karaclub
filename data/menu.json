@@ -1,0 +1,32 @@
+{
+    "data": [
+          {
+            "title": "بلاگ", "type": "sub", "active": false,"path":"/blog","icon":"ti-receipt"
+          },
+          {
+            "path": "/contact","title": "ارتباط با ما", "type": "link","icon":"ti-headphone-alt"
+          },
+          {
+            "path": "/service","title": "خدمات", "type": "link","icon":"ti-package"
+          },
+          {
+            "path": "/faq","title": "سوالات متداول", "type": "link","icon":"ti-help-alt"
+          },
+          {
+            "path": "/about","title": "درباره ما", "type": "link","icon":"ti-info-alt"
+          },
+          {
+            "path": "/page/compare","title": "مقایسه", "type": "link","icon":"ti-control-shuffle"
+          },
+          {
+            "path": "/page/wishlist","title": "علاقه مندی ها", "type": "link","icon":"ti-heart"
+          },
+          {
+            "path": "/product","title": "فروشگاه", "type": "link","icon":"ti-shopping-cart-full"
+          },
+          {
+            "path": "/","title": "خانه", "type": "link","icon":"ti-home"
+          }
+        ]
+  }
+  

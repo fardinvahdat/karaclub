@@ -1,0 +1,625 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "محصول شماره 1",
+            "description": "توضیحات مربوط به این محصول.",
+            "type": "مد",
+            "brand": "نایک",
+            "collection": ["جدید"],
+            "category": "زنانه",
+            "price": 145,
+            "sale": true,
+            "discount": "40",
+            "stock": 5,
+            "new": true,
+            "tags": [
+                "جدید",
+                "s",
+                "m",
+                "yellow",
+                "white",
+                "pink",
+                "nike"
+            ],
+            "variants": [
+                {
+                    "variant_id": 101,
+                    "id": 1,
+                    "sku": "sku1",
+                    "size": "s",
+                    "color": "yellow",
+                    "color_fa":"زرد",
+                    "image_id": 111
+                },
+                {
+                    "variant_id": 102,
+                    "id": 1,
+                    "sku": "sku2",
+                    "size": "s",
+                    "color": "white",
+                    "color_fa":"سفید",
+                    "image_id": 112
+                },
+                {
+                    "variant_id": 103,
+                    "id": 1,
+                    "sku": "sku3",
+                    "size": "s",
+                    "color": "pink",
+                    "color_fa":"صورتی",
+                    "image_id": 113
+                },
+                {
+                    "variant_id": 104,
+                    "id": 1,
+                    "sku": "sku4",
+                    "size": "m",
+                    "color": "yellow",
+                    "color_fa":"زرد",
+                    "image_id": 111
+                },
+                {
+                    "variant_id": 105,
+                    "id": 1,
+                    "sku": "sku5",
+                    "size": "m",
+                    "color": "white",
+                    "color_fa":"سفید",
+                    "image_id": 112
+                },
+                {
+                    "variant_id": 106,
+                    "id": 1,
+                    "sku": "sku5",
+                    "size": "m",
+                    "color": "pink",
+                    "color_fa":"صورتی",
+                    "image_id": 113
+                },
+                {
+                    "variant_id": 107,
+                    "id": 1,
+                    "sku": "sku1",
+                    "size": "l",
+                    "color": "yellow",
+                    "color_fa":"زرد",
+                    "image_id": 111
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 111,
+                    "id": 1,
+                    "alt": "yellow",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        101,
+                        104
+                    ]
+                },
+                {
+                    "image_id": 112,
+                    "id": 1,
+                    "alt": "white",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        102,
+                        105
+                    ]
+                },
+                {
+                    "image_id": 113,
+                    "id": 1,
+                    "alt": "pink",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        103,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "محصول شماره 2",
+            "description": "توضیحات این محصول.",
+            "type": "مد",
+            "brand": "زارا",
+            "collection": ["بهترین فروشنده"],
+            "category": "زنانه",
+            "price": 185,
+            "sale": false,
+            "discount": "40",
+            "stock": 2,
+            "new": false,
+            "tags": [
+                "s",
+                "m",
+                "l",
+                "olive",
+                "navy",
+                "red",
+                "zara"
+            ],
+            "variants": [
+                {
+                    "variant_id": 201,
+                    "id": 2,
+                    "sku": "sku1",
+                    "size": "s",
+                    "color": "olive",
+                    "color_fa":"زیتونی",
+                    "image_id": 211
+                },
+                {
+                    "variant_id": 202,
+                    "id": 2,
+                    "sku": "sku2",
+                    "size": "s",
+                    "color": "navy",
+                    "color_fa":"نیلی",
+                    "image_id": 212
+                },
+                {
+                    "variant_id": 203,
+                    "id": 2,
+                    "sku": "sku3",
+                    "size": "s",
+                    "color": "red",
+                    "color_fa":"قرمز",
+                    "image_id": 213
+                },
+                {
+                    "variant_id": 204,
+                    "id": 2,
+                    "sku": "sku4",
+                    "size": "m",
+                    "color": "olive",
+                    "color_fa":"زیتونی",
+                    "image_id": 211
+                },
+                {
+                    "variant_id": 205,
+                    "id": 2,
+                    "sku": "sku4",
+                    "size": "m",
+                    "color": "navy",
+                    "color_fa":"نیلی",
+                    "image_id": 212
+                },
+                {
+                    "variant_id": 206,
+                    "id": 2,
+                    "sku": "sku4",
+                    "size": "m",
+                    "color": "red",
+                    "color_fa":"قرمز",
+                    "image_id": 213
+                },
+                {
+                    "variant_id": 207,
+                    "id": 2,
+                    "sku": "sku4",
+                    "size": "l",
+                    "color": "olive",
+                    "color_fa":"زیتونی",
+                    "image_id": 211
+                },
+                {
+                    "variant_id": 208,
+                    "id": 2,
+                    "sku": "sku4",
+                    "size": "l",
+                    "color": "navy",
+                    "color_fa":"نیلی",
+                    "image_id": 212
+                },
+                {
+                    "variant_id": 209,
+                    "id": 2,
+                    "sku": "sku4",
+                    "size": "l",
+                    "color": "red",
+                    "color_fa":"قرمز",
+                    "image_id": 213
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 211,
+                    "id": 2,
+                    "alt": "olive",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        201,
+                        204,
+                        207
+                    ]
+                },
+                {
+                    "image_id": 212,
+                    "id": 2,
+                    "alt": "navy",
+                    "src": "2.jpg",
+                    "variant_id": [
+                        202,
+                        205,
+                        208
+                    ]
+                },
+                {
+                    "image_id": 213,
+                    "id": 2,
+                    "alt": "pink",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        203,
+                        206,
+                        209
+                    ]
+                },
+                {
+                    "image_id": 214,
+                    "id": 2,
+                    "alt": "pink",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        201,
+                        204
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "محصول شماره 3",
+            "description": "توضیحات مربوط به این محصول",
+            "type": "مد",
+            "brand": "بالنسیاگا",
+            "collection": ["featured products","new products"],
+            "category": "زنانه",
+            "price": 174,
+            "sale": false,
+            "discount": "40",
+            "stock": 0,
+            "new": true,
+            "tags": [
+                "denim",
+                "l",
+                "m",
+                "white",
+                "black"
+            ],
+            "variants": [
+                {
+                    "variant_id": 301,
+                    "id": 3,
+                    "sku": "sku3",
+                    "size": "l",
+                    "color": "white",
+                    "color_fa":"سفید",
+                    "image_id": 311
+                },
+                {
+                    "variant_id": 302,
+                    "id": 3,
+                    "sku": "skul3",
+                    "size": "m",
+                    "color": "white",
+                    "color_fa":"سفید",
+                    "image_id": 311
+                },
+                {
+                    "variant_id": 303,
+                    "id": 3,
+                    "sku": "sku3l",
+                    "size": "l",
+                    "color": "black",
+                    "color_fa":"مشکی",
+                    "image_id": 312
+                },
+                {
+                    "variant_id": 304,
+                    "id": 3,
+                    "sku": "sku4m",
+                    "size": "m",
+                    "color": "black",
+                    "color_fa":"مشکی",
+                    "image_id": 312
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 311,
+                    "id": 3,
+                    "alt": "white",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        301,
+                        303
+                    ]
+                },
+                {
+                    "image_id": 312,
+                    "id": 1,
+                    "alt": "white",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        302,
+                        304
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "محصول شماره 4",
+            "description": "توضیحات مربوط به این محصول.",
+            "type": "مد",
+            "brand": "ریباک",
+            "collection": ["new products", "on sale","new products"],
+            "category": "رنانه",
+            "price": 98,
+            "sale": false,
+            "discount": "50",
+            "stock": 10,
+            "new": true,
+            "tags": [
+                "s",
+                "l",
+                "white",
+                "skyblue",
+                "madame"
+            ],
+            "variants": [
+                {
+                    "variant_id": 401,
+                    "id": 4,
+                    "sku": "sku4",
+                    "size": "s",
+                    "color": "white",
+                    "color_fa":"سفید",
+                    "image_id": 411
+                },
+                {
+                    "variant_id": 402,
+                    "id": 4,
+                    "sku": "skul4",
+                    "size": "l",
+                    "color": "white",
+                    "color_fa":"سفید",
+                    "image_id": 411
+                },
+                {
+                    "variant_id": 403,
+                    "id": 4,
+                    "sku": "sku4s",
+                    "size": "s",
+                    "color": "skyblue",
+                    "color_fa":"آبی آسمانی",
+                    "image_id": 412
+                },
+                {
+                    "variant_id": 404,
+                    "id": 4,
+                    "sku": "sku4l",
+                    "size": "l",
+                    "color": "skyblue",
+                    "color_fa":"آبی آسمانی",
+                    "image_id": 412
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 411,
+                    "id": 4,
+                    "alt": "white",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        401,
+                        402
+                    ]
+                },
+                {
+                    "image_id": 412,
+                    "id": 4,
+                    "alt": "skyblue",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        403,
+                        404
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "محصول شماره 5",
+            "description": "توضیحات مربوط به این محصول.",
+            "type": "مد",
+            "brand": "biba",
+            "collection": ["featured products","new products"],
+            "category": "Women",
+            "price": 230,
+            "sale": true,
+            "discount": "20",
+            "stock": 4,
+            "new": true,
+            "tags": [
+                "m",
+                "l",
+                "green",
+                "black",
+                "biba"
+            ],
+            "variants": [
+                {
+                    "variant_id": 501,
+                    "id": 5,
+                    "sku": "sku5",
+                    "size": "m",
+                    "color": "green",
+                    "image_id": 511
+                },
+                {
+                    "variant_id": 502,
+                    "id": 5,
+                    "sku": "skul5",
+                    "size": "l",
+                    "color": "green",
+                    "image_id": 511
+                },
+                {
+                    "variant_id": 503,
+                    "id": 5,
+                    "sku": "sku5s",
+                    "size": "m",
+                    "color": "black",
+                    "color_fa":"مشکی",
+                    "image_id": 512
+                },
+                {
+                    "variant_id": 504,
+                    "id": 5,
+                    "sku": "sku5l",
+                    "size": "l",
+                    "color": "black",
+                    "color_fa":"مشکی",
+                    "image_id": 512
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 511,
+                    "id": 5,
+                    "alt": "green",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        501,
+                        503
+                    ]
+                },
+                {
+                    "image_id": 512,
+                    "id": 5,
+                    "alt": "black",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        502,
+                        504
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "محصول شماره 6",
+            "description": "توضیحات مربوط به این محصول.",
+            "type": "مد",
+            "brand": "max",
+            "collection": ["best sellers"],
+            "category": "Women",
+            "price": 121,
+            "sale": false,
+            "discount": "40",
+            "stock": 30,
+            "new": true,
+            "tags": [
+                "new",
+                "s",
+                "m",
+                "olive",
+                "gray",
+                "red",
+                "max"
+            ],
+            "variants": [
+                {
+                    "variant_id": 601,
+                    "id": 6,
+                    "sku": "sku6",
+                    "size": "s",
+                    "color": "olive",
+                    "color_fa":"زیتونی",
+                    "image_id": 611
+                },
+                {
+                    "variant_id": 602,
+                    "id": 6,
+                    "sku": "skul6",
+                    "size": "s",
+                    "color": "gray",
+                    "image_id": 612
+                },
+                {
+                    "variant_id": 603,
+                    "id": 6,
+                    "sku": "sku6s",
+                    "size": "s",
+                    "color": "red",
+                    "color_fa":"قرمز",
+                    "image_id": 613
+                },
+                {
+                    "variant_id": 604,
+                    "id": 6,
+                    "sku": "sku6l",
+                    "size": "m",
+                    "color": "olive",
+                    "color_fa":"زیتونی",
+                    "image_id": 611
+                },
+                {
+                    "variant_id": 605,
+                    "id": 6,
+                    "sku": "sku6l",
+                    "size": "m",
+                    "color": "gray",
+                    "image_id": 612
+                },
+                {
+                    "variant_id": 606,
+                    "id": 6,
+                    "sku": "sku6l",
+                    "size": "m",
+                    "color": "red",
+                    "color_fa":"قرمز",
+                    "image_id": 613
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 611,
+                    "id": 6,
+                    "alt": "olive",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        601,
+                        604
+                    ]
+                },
+                {
+                    "image_id": 612,
+                    "id": 6,
+                    "alt": "gray",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        602,
+                        605
+                    ]
+                },
+                {
+                    "image_id": 613,
+                    "id": 6,
+                    "alt": "red",
+                    "src": "1.jpg",
+                    "variant_id": [
+                        603,
+                        606
+                    ]
+                }
+            ]
+        }
+    ]
+}

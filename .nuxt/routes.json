@@ -1,0 +1,1542 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_acd57102"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_66a02774"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/cart/index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_159e7244"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/checkout/index.vue",
+    "chunkName": "pages/checkout/index",
+    "_name": "_2322206a"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_5f9c0292"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/faq/index.vue",
+    "chunkName": "pages/faq/index",
+    "_name": "_51641cf0"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/index.vue",
+    "chunkName": "pages/product/index",
+    "_name": "_09a596be"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/service/index.vue",
+    "chunkName": "pages/service/index",
+    "_name": "_ff3ba232"
+  },
+  {
+    "name": "blog-blog-detail",
+    "path": "/blog/blog-detail",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/blog/blog-detail.vue",
+    "chunkName": "pages/blog/blog-detail",
+    "_name": "_b20c9b60"
+  },
+  {
+    "name": "blog-blog-leftsidebar",
+    "path": "/blog/blog-leftsidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/blog/blog-leftsidebar.vue",
+    "chunkName": "pages/blog/blog-leftsidebar",
+    "_name": "_5eaa13f4"
+  },
+  {
+    "name": "blog-blog-nosidebar",
+    "path": "/blog/blog-nosidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/blog/blog-nosidebar.vue",
+    "chunkName": "pages/blog/blog-nosidebar",
+    "_name": "_b5cd4b68"
+  },
+  {
+    "name": "blog-blog-rightsidebar",
+    "path": "/blog/blog-rightsidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/blog/blog-rightsidebar.vue",
+    "chunkName": "pages/blog/blog-rightsidebar",
+    "_name": "_063672ff"
+  },
+  {
+    "name": "collection-full-width",
+    "path": "/collection/full-width",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/full-width.vue",
+    "chunkName": "pages/collection/full-width",
+    "_name": "_43904788"
+  },
+  {
+    "name": "collection-list-view",
+    "path": "/collection/list-view",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/list-view.vue",
+    "chunkName": "pages/collection/list-view",
+    "_name": "_128f83b8"
+  },
+  {
+    "name": "collection-metro",
+    "path": "/collection/metro",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/metro.vue",
+    "chunkName": "pages/collection/metro",
+    "_name": "_b6aa036e"
+  },
+  {
+    "name": "collection-no-sidebar",
+    "path": "/collection/no-sidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/no-sidebar.vue",
+    "chunkName": "pages/collection/no-sidebar",
+    "_name": "_0030dc60"
+  },
+  {
+    "name": "collection-right-sidebar",
+    "path": "/collection/right-sidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/right-sidebar.vue",
+    "chunkName": "pages/collection/right-sidebar",
+    "_name": "_017174db"
+  },
+  {
+    "name": "collection-sidebar-popup",
+    "path": "/collection/sidebar-popup",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/sidebar-popup.vue",
+    "chunkName": "pages/collection/sidebar-popup",
+    "_name": "_c75ed9aa"
+  },
+  {
+    "name": "collection-six-grid",
+    "path": "/collection/six-grid",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/six-grid.vue",
+    "chunkName": "pages/collection/six-grid",
+    "_name": "_abf2f55e"
+  },
+  {
+    "name": "collection-three-grid",
+    "path": "/collection/three-grid",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/three-grid.vue",
+    "chunkName": "pages/collection/three-grid",
+    "_name": "_3312d615"
+  },
+  {
+    "name": "page-404",
+    "path": "/page/404",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/404.vue",
+    "chunkName": "pages/page/404",
+    "_name": "_1e32a699"
+  },
+  {
+    "name": "page-about",
+    "path": "/page/about",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/about.vue",
+    "chunkName": "pages/page/about",
+    "_name": "_6021402e"
+  },
+  {
+    "name": "page-collection",
+    "path": "/page/collection",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/collection.vue",
+    "chunkName": "pages/page/collection",
+    "_name": "_66225166"
+  },
+  {
+    "name": "page-coming-soon",
+    "path": "/page/coming-soon",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/coming-soon.vue",
+    "chunkName": "pages/page/coming-soon",
+    "_name": "_ab159cb0"
+  },
+  {
+    "name": "page-compare",
+    "path": "/page/compare",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/compare/index.vue",
+    "chunkName": "pages/page/compare/index",
+    "_name": "_60dc6949"
+  },
+  {
+    "name": "page-faq",
+    "path": "/page/faq",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/faq.vue",
+    "chunkName": "pages/page/faq",
+    "_name": "_6bb96d12"
+  },
+  {
+    "name": "page-lookbook",
+    "path": "/page/lookbook",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/lookbook.vue",
+    "chunkName": "pages/page/lookbook",
+    "_name": "_29ef5112"
+  },
+  {
+    "name": "page-order-success",
+    "path": "/page/order-success",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/order-success.vue",
+    "chunkName": "pages/page/order-success",
+    "_name": "_00eeaca5"
+  },
+  {
+    "name": "page-review",
+    "path": "/page/review",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/review.vue",
+    "chunkName": "pages/page/review",
+    "_name": "_3f4552f2"
+  },
+  {
+    "name": "page-search",
+    "path": "/page/search",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/search.vue",
+    "chunkName": "pages/page/search",
+    "_name": "_27091cd7"
+  },
+  {
+    "name": "page-typography",
+    "path": "/page/typography",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/typography.vue",
+    "chunkName": "pages/page/typography",
+    "_name": "_450fed5e"
+  },
+  {
+    "name": "page-wishlist",
+    "path": "/page/wishlist",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/wishlist/index.vue",
+    "chunkName": "pages/page/wishlist/index",
+    "_name": "_0b647c37"
+  },
+  {
+    "name": "product-bundle-product",
+    "path": "/product/bundle-product",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/bundle-product.vue",
+    "chunkName": "pages/product/bundle-product",
+    "_name": "_62870a36"
+  },
+  {
+    "name": "product-four-image",
+    "path": "/product/four-image",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/four-image.vue",
+    "chunkName": "pages/product/four-image",
+    "_name": "_0527b296"
+  },
+  {
+    "name": "shop-bags",
+    "path": "/shop/bags",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/index.vue",
+    "chunkName": "pages/shop/bags/index",
+    "_name": "_35122496"
+  },
+  {
+    "name": "shop-beauty",
+    "path": "/shop/beauty",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/index.vue",
+    "chunkName": "pages/shop/beauty/index",
+    "_name": "_3d911a67"
+  },
+  {
+    "name": "shop-electronics-1",
+    "path": "/shop/electronics-1",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/electronics-1/index.vue",
+    "chunkName": "pages/shop/electronics-1/index",
+    "_name": "_15017ae6"
+  },
+  {
+    "name": "shop-fashion",
+    "path": "/shop/fashion",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/index.vue",
+    "chunkName": "pages/shop/fashion/index",
+    "_name": "_bd7729fa"
+  },
+  {
+    "name": "shop-fashion-2",
+    "path": "/shop/fashion-2",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-2/index.vue",
+    "chunkName": "pages/shop/fashion-2/index",
+    "_name": "_014fe730"
+  },
+  {
+    "name": "shop-fashion-3",
+    "path": "/shop/fashion-3",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-3/index.vue",
+    "chunkName": "pages/shop/fashion-3/index",
+    "_name": "_d78681ae"
+  },
+  {
+    "name": "shop-flower",
+    "path": "/shop/flower",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/index.vue",
+    "chunkName": "pages/shop/flower/index",
+    "_name": "_2b540cf4"
+  },
+  {
+    "name": "shop-furniture",
+    "path": "/shop/furniture",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/furniture/index.vue",
+    "chunkName": "pages/shop/furniture/index",
+    "_name": "_024b4e86"
+  },
+  {
+    "name": "shop-gym",
+    "path": "/shop/gym",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/index.vue",
+    "chunkName": "pages/shop/gym/index",
+    "_name": "_74898f46"
+  },
+  {
+    "name": "shop-jewellery",
+    "path": "/shop/jewellery",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/index.vue",
+    "chunkName": "pages/shop/jewellery/index",
+    "_name": "_49e7c7ce"
+  },
+  {
+    "name": "shop-kids",
+    "path": "/shop/kids",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/index.vue",
+    "chunkName": "pages/shop/kids/index",
+    "_name": "_fa3d01d0"
+  },
+  {
+    "name": "shop-pets",
+    "path": "/shop/pets",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/index.vue",
+    "chunkName": "pages/shop/pets/index",
+    "_name": "_a576a9c2"
+  },
+  {
+    "name": "shop-shoes",
+    "path": "/shop/shoes",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/index.vue",
+    "chunkName": "pages/shop/shoes/index",
+    "_name": "_b3313f9a"
+  },
+  {
+    "name": "shop-tools",
+    "path": "/shop/tools",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/index.vue",
+    "chunkName": "pages/shop/tools/index",
+    "_name": "_632ed366"
+  },
+  {
+    "name": "shop-vegetables",
+    "path": "/shop/vegetables",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/vegetables/index.vue",
+    "chunkName": "pages/shop/vegetables/index",
+    "_name": "_29617a46"
+  },
+  {
+    "name": "shop-watch",
+    "path": "/shop/watch",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/index.vue",
+    "chunkName": "pages/shop/watch/index",
+    "_name": "_141cad5a"
+  },
+  {
+    "name": "blog-widgets-blog-list",
+    "path": "/blog/widgets/blog-list",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/blog/widgets/blog-list.vue",
+    "chunkName": "pages/blog/widgets/blog-list",
+    "_name": "_fe98bb06"
+  },
+  {
+    "name": "blog-widgets-blog-sidebar",
+    "path": "/blog/widgets/blog-sidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/blog/widgets/blog-sidebar.vue",
+    "chunkName": "pages/blog/widgets/blog-sidebar",
+    "_name": "_0f03784d"
+  },
+  {
+    "name": "page-account-cart",
+    "path": "/page/account/cart",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/cart.vue",
+    "chunkName": "pages/page/account/cart",
+    "_name": "_5ce1a2b1"
+  },
+  {
+    "name": "page-account-checkout",
+    "path": "/page/account/checkout",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/checkout.vue",
+    "chunkName": "pages/page/account/checkout",
+    "_name": "_1a3fcd57"
+  },
+  {
+    "name": "page-account-contact",
+    "path": "/page/account/contact",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/contact.vue",
+    "chunkName": "pages/page/account/contact",
+    "_name": "_29b2731f"
+  },
+  {
+    "name": "page-account-dashboard",
+    "path": "/page/account/dashboard",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/dashboard.vue",
+    "chunkName": "pages/page/account/dashboard",
+    "_name": "_775c61d3"
+  },
+  {
+    "name": "page-account-forget-password",
+    "path": "/page/account/forget-password",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/forget-password.vue",
+    "chunkName": "pages/page/account/forget-password",
+    "_name": "_7bbd88fa"
+  },
+  {
+    "name": "page-account-login",
+    "path": "/page/account/login",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/login.vue",
+    "chunkName": "pages/page/account/login",
+    "_name": "_627340b0"
+  },
+  {
+    "name": "page-account-login-firebase",
+    "path": "/page/account/login-firebase",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/login-firebase.vue",
+    "chunkName": "pages/page/account/login-firebase",
+    "_name": "_1cde72bc"
+  },
+  {
+    "name": "page-account-profile",
+    "path": "/page/account/profile",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/profile.vue",
+    "chunkName": "pages/page/account/profile",
+    "_name": "_31d9ec28"
+  },
+  {
+    "name": "page-account-register",
+    "path": "/page/account/register",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/register.vue",
+    "chunkName": "pages/page/account/register",
+    "_name": "_5d46b834"
+  },
+  {
+    "name": "page-account-wishlist",
+    "path": "/page/account/wishlist",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/wishlist.vue",
+    "chunkName": "pages/page/account/wishlist",
+    "_name": "_9d1c4354"
+  },
+  {
+    "name": "page-compare-compare-2",
+    "path": "/page/compare/compare-2",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/compare/compare-2.vue",
+    "chunkName": "pages/page/compare/compare-2",
+    "_name": "_61bd4b7e"
+  },
+  {
+    "name": "page-element-banner",
+    "path": "/page/element/banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/banner.vue",
+    "chunkName": "pages/page/element/banner",
+    "_name": "_11230a4e"
+  },
+  {
+    "name": "page-element-category",
+    "path": "/page/element/category",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/category.vue",
+    "chunkName": "pages/page/element/category",
+    "_name": "_f6a0d6c0"
+  },
+  {
+    "name": "page-element-collection-banner",
+    "path": "/page/element/collection-banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/collection-banner.vue",
+    "chunkName": "pages/page/element/collection-banner",
+    "_name": "_458de189"
+  },
+  {
+    "name": "page-element-home-slider",
+    "path": "/page/element/home-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/home-slider.vue",
+    "chunkName": "pages/page/element/home-slider",
+    "_name": "_e96bdf46"
+  },
+  {
+    "name": "page-element-logo-slider",
+    "path": "/page/element/logo-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/logo-slider.vue",
+    "chunkName": "pages/page/element/logo-slider",
+    "_name": "_aed3efde"
+  },
+  {
+    "name": "page-element-multi-slider",
+    "path": "/page/element/multi-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/multi-slider.vue",
+    "chunkName": "pages/page/element/multi-slider",
+    "_name": "_8ac649d2"
+  },
+  {
+    "name": "page-element-product-slider",
+    "path": "/page/element/product-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/product-slider.vue",
+    "chunkName": "pages/page/element/product-slider",
+    "_name": "_786d7b21"
+  },
+  {
+    "name": "page-element-product-tabs",
+    "path": "/page/element/product-tabs",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/product-tabs.vue",
+    "chunkName": "pages/page/element/product-tabs",
+    "_name": "_1e16893e"
+  },
+  {
+    "name": "page-element-service",
+    "path": "/page/element/service",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/element/service.vue",
+    "chunkName": "pages/page/element/service",
+    "_name": "_14959983"
+  },
+  {
+    "name": "page-portfolio-masonary-fullwidth",
+    "path": "/page/portfolio/masonary-fullwidth",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/portfolio/masonary-fullwidth.vue",
+    "chunkName": "pages/page/portfolio/masonary-fullwidth",
+    "_name": "_f4e0216c"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-2",
+    "path": "/page/portfolio/mesonary-grid-2",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/portfolio/mesonary-grid-2.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-2",
+    "_name": "_a2e52178"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-3",
+    "path": "/page/portfolio/mesonary-grid-3",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/portfolio/mesonary-grid-3.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-3",
+    "_name": "_a2c8f276"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-4",
+    "path": "/page/portfolio/mesonary-grid-4",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/portfolio/mesonary-grid-4.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-4",
+    "_name": "_a2acc374"
+  },
+  {
+    "name": "page-portfolio-portfolio-2-col",
+    "path": "/page/portfolio/portfolio-2-col",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/portfolio/portfolio-2-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-2-col",
+    "_name": "_34e339fa"
+  },
+  {
+    "name": "page-portfolio-portfolio-3-col",
+    "path": "/page/portfolio/portfolio-3-col",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/portfolio/portfolio-3-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-3-col",
+    "_name": "_6db0ae0a"
+  },
+  {
+    "name": "page-portfolio-portfolio-4-col",
+    "path": "/page/portfolio/portfolio-4-col",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/portfolio/portfolio-4-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-4-col",
+    "_name": "_5d6c17fc"
+  },
+  {
+    "name": "product-sidebar-no-sidebar",
+    "path": "/product/sidebar/no-sidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/sidebar/no-sidebar.vue",
+    "chunkName": "pages/product/sidebar/no-sidebar",
+    "_name": "_23f08824"
+  },
+  {
+    "name": "product-sidebar-right-sidebar",
+    "path": "/product/sidebar/right-sidebar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/sidebar/right-sidebar.vue",
+    "chunkName": "pages/product/sidebar/right-sidebar",
+    "_name": "_7062ee07"
+  },
+  {
+    "name": "product-three-column-thumbnail-bottom",
+    "path": "/product/three-column/thumbnail-bottom",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/three-column/thumbnail-bottom.vue",
+    "chunkName": "pages/product/three-column/thumbnail-bottom",
+    "_name": "_1a23b565"
+  },
+  {
+    "name": "product-three-column-thumbnail-left",
+    "path": "/product/three-column/thumbnail-left",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/three-column/thumbnail-left.vue",
+    "chunkName": "pages/product/three-column/thumbnail-left",
+    "_name": "_60e58dc1"
+  },
+  {
+    "name": "product-three-column-thumbnail-right",
+    "path": "/product/three-column/thumbnail-right",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/three-column/thumbnail-right.vue",
+    "chunkName": "pages/product/three-column/thumbnail-right",
+    "_name": "_0ddd775c"
+  },
+  {
+    "name": "product-thumbnail-image-image-outside",
+    "path": "/product/thumbnail-image/image-outside",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/thumbnail-image/image-outside.vue",
+    "chunkName": "pages/product/thumbnail-image/image-outside",
+    "_name": "_913e6826"
+  },
+  {
+    "name": "product-thumbnail-image-left-image",
+    "path": "/product/thumbnail-image/left-image",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/thumbnail-image/left-image.vue",
+    "chunkName": "pages/product/thumbnail-image/left-image",
+    "_name": "_ce15486a"
+  },
+  {
+    "name": "product-thumbnail-image-right-image",
+    "path": "/product/thumbnail-image/right-image",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/thumbnail-image/right-image.vue",
+    "chunkName": "pages/product/thumbnail-image/right-image",
+    "_name": "_1b1f1c24"
+  },
+  {
+    "name": "service-components-Card",
+    "path": "/service/components/Card",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/service/components/Card.vue",
+    "chunkName": "pages/service/components/Card",
+    "_name": "_62c85644"
+  },
+  {
+    "name": "service-components-CardSection",
+    "path": "/service/components/CardSection",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/service/components/CardSection.vue",
+    "chunkName": "pages/service/components/CardSection",
+    "_name": "_d2027c52"
+  },
+  {
+    "name": "service-components-SearchBar",
+    "path": "/service/components/SearchBar",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/service/components/SearchBar.vue",
+    "chunkName": "pages/service/components/SearchBar",
+    "_name": "_51ce54ed"
+  },
+  {
+    "name": "page-account-auth-auth",
+    "path": "/page/account/auth/auth",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/page/account/auth/auth.js",
+    "chunkName": "pages/page/account/auth/auth",
+    "_name": "_da4e233e"
+  },
+  {
+    "name": "shop-bags-components-banner",
+    "path": "/shop/bags/components/banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/banner.vue",
+    "chunkName": "pages/shop/bags/components/banner",
+    "_name": "_dc56feee"
+  },
+  {
+    "name": "shop-bags-components-blog",
+    "path": "/shop/bags/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/blog.vue",
+    "chunkName": "pages/shop/bags/components/blog",
+    "_name": "_3128733f"
+  },
+  {
+    "name": "shop-bags-components-category",
+    "path": "/shop/bags/components/category",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/category.vue",
+    "chunkName": "pages/shop/bags/components/category",
+    "_name": "_c2472fca"
+  },
+  {
+    "name": "shop-bags-components-category2",
+    "path": "/shop/bags/components/category2",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/category2.vue",
+    "chunkName": "pages/shop/bags/components/category2",
+    "_name": "_3cc844a7"
+  },
+  {
+    "name": "shop-bags-components-categorytab",
+    "path": "/shop/bags/components/categorytab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/categorytab.vue",
+    "chunkName": "pages/shop/bags/components/categorytab",
+    "_name": "_24f2574a"
+  },
+  {
+    "name": "shop-bags-components-instagram",
+    "path": "/shop/bags/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/instagram.vue",
+    "chunkName": "pages/shop/bags/components/instagram",
+    "_name": "_14efda65"
+  },
+  {
+    "name": "shop-bags-components-productcategoryslider",
+    "path": "/shop/bags/components/productcategoryslider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/productcategoryslider.vue",
+    "chunkName": "pages/shop/bags/components/productcategoryslider",
+    "_name": "_462e7241"
+  },
+  {
+    "name": "shop-bags-components-productslider",
+    "path": "/shop/bags/components/productslider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/productslider.vue",
+    "chunkName": "pages/shop/bags/components/productslider",
+    "_name": "_b602767a"
+  },
+  {
+    "name": "shop-bags-components-services",
+    "path": "/shop/bags/components/services",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/services.vue",
+    "chunkName": "pages/shop/bags/components/services",
+    "_name": "_c813e90a"
+  },
+  {
+    "name": "shop-bags-components-slider",
+    "path": "/shop/bags/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/bags/components/slider.vue",
+    "chunkName": "pages/shop/bags/components/slider",
+    "_name": "_114197be"
+  },
+  {
+    "name": "shop-beauty-components-about",
+    "path": "/shop/beauty/components/about",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/components/about.vue",
+    "chunkName": "pages/shop/beauty/components/about",
+    "_name": "_148143cf"
+  },
+  {
+    "name": "shop-beauty-components-blog",
+    "path": "/shop/beauty/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/components/blog.vue",
+    "chunkName": "pages/shop/beauty/components/blog",
+    "_name": "_bc21d060"
+  },
+  {
+    "name": "shop-beauty-components-instagram",
+    "path": "/shop/beauty/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/components/instagram.vue",
+    "chunkName": "pages/shop/beauty/components/instagram",
+    "_name": "_021e6874"
+  },
+  {
+    "name": "shop-beauty-components-product-slider",
+    "path": "/shop/beauty/components/product-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/components/product-slider.vue",
+    "chunkName": "pages/shop/beauty/components/product-slider",
+    "_name": "_0f3d2ca6"
+  },
+  {
+    "name": "shop-beauty-components-slider",
+    "path": "/shop/beauty/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/components/slider.vue",
+    "chunkName": "pages/shop/beauty/components/slider",
+    "_name": "_6af15c0f"
+  },
+  {
+    "name": "shop-beauty-components-top-product-slider",
+    "path": "/shop/beauty/components/top-product-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/components/top-product-slider.vue",
+    "chunkName": "pages/shop/beauty/components/top-product-slider",
+    "_name": "_3ffc2bb6"
+  },
+  {
+    "name": "shop-beauty-components-video-tutorial",
+    "path": "/shop/beauty/components/video-tutorial",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/beauty/components/video-tutorial.vue",
+    "chunkName": "pages/shop/beauty/components/video-tutorial",
+    "_name": "_053f821e"
+  },
+  {
+    "name": "shop-electronics-1-components-collection_banner",
+    "path": "/shop/electronics-1/components/collection_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/electronics-1/components/collection_banner.vue",
+    "chunkName": "pages/shop/electronics-1/components/collection_banner",
+    "_name": "_7a817c60"
+  },
+  {
+    "name": "shop-electronics-1-components-product_tab",
+    "path": "/shop/electronics-1/components/product_tab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/electronics-1/components/product_tab.vue",
+    "chunkName": "pages/shop/electronics-1/components/product_tab",
+    "_name": "_466d9330"
+  },
+  {
+    "name": "shop-electronics-1-components-slider",
+    "path": "/shop/electronics-1/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/electronics-1/components/slider.vue",
+    "chunkName": "pages/shop/electronics-1/components/slider",
+    "_name": "_0fd1f60e"
+  },
+  {
+    "name": "shop-fashion-2-components-banner",
+    "path": "/shop/fashion-2/components/banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-2/components/banner.vue",
+    "chunkName": "pages/shop/fashion-2/components/banner",
+    "_name": "_0219854a"
+  },
+  {
+    "name": "shop-fashion-2-components-collection",
+    "path": "/shop/fashion-2/components/collection",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-2/components/collection.vue",
+    "chunkName": "pages/shop/fashion-2/components/collection",
+    "_name": "_6021c04d"
+  },
+  {
+    "name": "shop-fashion-2-components-collection-banner",
+    "path": "/shop/fashion-2/components/collection-banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-2/components/collection-banner.vue",
+    "chunkName": "pages/shop/fashion-2/components/collection-banner",
+    "_name": "_5db5345c"
+  },
+  {
+    "name": "shop-fashion-2-components-instagram",
+    "path": "/shop/fashion-2/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-2/components/instagram.vue",
+    "chunkName": "pages/shop/fashion-2/components/instagram",
+    "_name": "_fe31d75a"
+  },
+  {
+    "name": "shop-fashion-2-components-product",
+    "path": "/shop/fashion-2/components/product",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-2/components/product.vue",
+    "chunkName": "pages/shop/fashion-2/components/product",
+    "_name": "_0a57bd60"
+  },
+  {
+    "name": "shop-fashion-2-components-slider",
+    "path": "/shop/fashion-2/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-2/components/slider.vue",
+    "chunkName": "pages/shop/fashion-2/components/slider",
+    "_name": "_7e605490"
+  },
+  {
+    "name": "shop-fashion-3-components-banner",
+    "path": "/shop/fashion-3/components/banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-3/components/banner.vue",
+    "chunkName": "pages/shop/fashion-3/components/banner",
+    "_name": "_4924d69c"
+  },
+  {
+    "name": "shop-fashion-3-components-product_slider",
+    "path": "/shop/fashion-3/components/product_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-3/components/product_slider.vue",
+    "chunkName": "pages/shop/fashion-3/components/product_slider",
+    "_name": "_2d2ff9be"
+  },
+  {
+    "name": "shop-fashion-3-components-product_tab",
+    "path": "/shop/fashion-3/components/product_tab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-3/components/product_tab.vue",
+    "chunkName": "pages/shop/fashion-3/components/product_tab",
+    "_name": "_e5a6bef6"
+  },
+  {
+    "name": "shop-fashion-3-components-slider",
+    "path": "/shop/fashion-3/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion-3/components/slider.vue",
+    "chunkName": "pages/shop/fashion-3/components/slider",
+    "_name": "_6edc245e"
+  },
+  {
+    "name": "shop-fashion-components-banner",
+    "path": "/shop/fashion/components/banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/banner.vue",
+    "chunkName": "pages/shop/fashion/components/banner",
+    "_name": "_b6d0e914"
+  },
+  {
+    "name": "shop-fashion-components-bannerBottom",
+    "path": "/shop/fashion/components/bannerBottom",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/bannerBottom.vue",
+    "chunkName": "pages/shop/fashion/components/bannerBottom",
+    "_name": "_789d55c1"
+  },
+  {
+    "name": "shop-fashion-components-bannerGrops",
+    "path": "/shop/fashion/components/bannerGrops",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/bannerGrops.vue",
+    "chunkName": "pages/shop/fashion/components/bannerGrops",
+    "_name": "_53b87ec1"
+  },
+  {
+    "name": "shop-fashion-components-blog",
+    "path": "/shop/fashion/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/blog.vue",
+    "chunkName": "pages/shop/fashion/components/blog",
+    "_name": "_751b556c"
+  },
+  {
+    "name": "shop-fashion-components-collection_banner",
+    "path": "/shop/fashion/components/collection_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/collection_banner.vue",
+    "chunkName": "pages/shop/fashion/components/collection_banner",
+    "_name": "_e348fdda"
+  },
+  {
+    "name": "shop-fashion-components-customBanner",
+    "path": "/shop/fashion/components/customBanner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/customBanner.vue",
+    "chunkName": "pages/shop/fashion/components/customBanner",
+    "_name": "_2a01e772"
+  },
+  {
+    "name": "shop-fashion-components-Custome_slider",
+    "path": "/shop/fashion/components/Custome_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/Custome_slider.vue",
+    "chunkName": "pages/shop/fashion/components/Custome_slider",
+    "_name": "_2e070ad6"
+  },
+  {
+    "name": "shop-fashion-components-instagram",
+    "path": "/shop/fashion/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/instagram.vue",
+    "chunkName": "pages/shop/fashion/components/instagram",
+    "_name": "_6c444c58"
+  },
+  {
+    "name": "shop-fashion-components-logo_slider",
+    "path": "/shop/fashion/components/logo_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/logo_slider.vue",
+    "chunkName": "pages/shop/fashion/components/logo_slider",
+    "_name": "_d0922cca"
+  },
+  {
+    "name": "shop-fashion-components-product_slider",
+    "path": "/shop/fashion/components/product_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/product_slider.vue",
+    "chunkName": "pages/shop/fashion/components/product_slider",
+    "_name": "_132d3dfb"
+  },
+  {
+    "name": "shop-fashion-components-product_slider2",
+    "path": "/shop/fashion/components/product_slider2",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/product_slider2.vue",
+    "chunkName": "pages/shop/fashion/components/product_slider2",
+    "_name": "_52922ac7"
+  },
+  {
+    "name": "shop-fashion-components-product_tab",
+    "path": "/shop/fashion/components/product_tab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/product_tab.vue",
+    "chunkName": "pages/shop/fashion/components/product_tab",
+    "_name": "_254ae3eb"
+  },
+  {
+    "name": "shop-fashion-components-services",
+    "path": "/shop/fashion/components/services",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/services.vue",
+    "chunkName": "pages/shop/fashion/components/services",
+    "_name": "_0a220f28"
+  },
+  {
+    "name": "shop-fashion-components-slider",
+    "path": "/shop/fashion/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/slider.vue",
+    "chunkName": "pages/shop/fashion/components/slider",
+    "_name": "_2404a2ab"
+  },
+  {
+    "name": "shop-fashion-components-Style",
+    "path": "/shop/fashion/components/Style",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/fashion/components/Style.vue",
+    "chunkName": "pages/shop/fashion/components/Style",
+    "_name": "_4c79bc92"
+  },
+  {
+    "name": "shop-flower-components-blog",
+    "path": "/shop/flower/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/blog.vue",
+    "chunkName": "pages/shop/flower/components/blog",
+    "_name": "_691adc2f"
+  },
+  {
+    "name": "shop-flower-components-category_tab",
+    "path": "/shop/flower/components/category_tab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/category_tab.vue",
+    "chunkName": "pages/shop/flower/components/category_tab",
+    "_name": "_55a0093e"
+  },
+  {
+    "name": "shop-flower-components-collection_banner",
+    "path": "/shop/flower/components/collection_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/collection_banner.vue",
+    "chunkName": "pages/shop/flower/components/collection_banner",
+    "_name": "_74364f30"
+  },
+  {
+    "name": "shop-flower-components-instagram",
+    "path": "/shop/flower/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/instagram.vue",
+    "chunkName": "pages/shop/flower/components/instagram",
+    "_name": "_15c98775"
+  },
+  {
+    "name": "shop-flower-components-product_slider",
+    "path": "/shop/flower/components/product_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/product_slider.vue",
+    "chunkName": "pages/shop/flower/components/product_slider",
+    "_name": "_74316cfe"
+  },
+  {
+    "name": "shop-flower-components-services",
+    "path": "/shop/flower/components/services",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/services.vue",
+    "chunkName": "pages/shop/flower/components/services",
+    "_name": "_51aa7c6b"
+  },
+  {
+    "name": "shop-flower-components-slider",
+    "path": "/shop/flower/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/slider.vue",
+    "chunkName": "pages/shop/flower/components/slider",
+    "_name": "_163d84ae"
+  },
+  {
+    "name": "shop-flower-components-top_products",
+    "path": "/shop/flower/components/top_products",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/flower/components/top_products.vue",
+    "chunkName": "pages/shop/flower/components/top_products",
+    "_name": "_2435429b"
+  },
+  {
+    "name": "shop-furniture-components-blog",
+    "path": "/shop/furniture/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/furniture/components/blog.vue",
+    "chunkName": "pages/shop/furniture/components/blog",
+    "_name": "_f7d23ab4"
+  },
+  {
+    "name": "shop-furniture-components-category_tab",
+    "path": "/shop/furniture/components/category_tab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/furniture/components/category_tab.vue",
+    "chunkName": "pages/shop/furniture/components/category_tab",
+    "_name": "_8ad4ca50"
+  },
+  {
+    "name": "shop-furniture-components-collection_banner",
+    "path": "/shop/furniture/components/collection_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/furniture/components/collection_banner.vue",
+    "chunkName": "pages/shop/furniture/components/collection_banner",
+    "_name": "_438cc219"
+  },
+  {
+    "name": "shop-furniture-components-parallax_banner",
+    "path": "/shop/furniture/components/parallax_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/furniture/components/parallax_banner.vue",
+    "chunkName": "pages/shop/furniture/components/parallax_banner",
+    "_name": "_5cb3d280"
+  },
+  {
+    "name": "shop-furniture-components-slider",
+    "path": "/shop/furniture/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/furniture/components/slider.vue",
+    "chunkName": "pages/shop/furniture/components/slider",
+    "_name": "_6251c965"
+  },
+  {
+    "name": "shop-gym-components-blog",
+    "path": "/shop/gym/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/components/blog.vue",
+    "chunkName": "pages/shop/gym/components/blog",
+    "_name": "_51c37c22"
+  },
+  {
+    "name": "shop-gym-components-collection-banner",
+    "path": "/shop/gym/components/collection-banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/components/collection-banner.vue",
+    "chunkName": "pages/shop/gym/components/collection-banner",
+    "_name": "_15695084"
+  },
+  {
+    "name": "shop-gym-components-instagram",
+    "path": "/shop/gym/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/components/instagram.vue",
+    "chunkName": "pages/shop/gym/components/instagram",
+    "_name": "_da808c96"
+  },
+  {
+    "name": "shop-gym-components-logo-slider",
+    "path": "/shop/gym/components/logo-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/components/logo-slider.vue",
+    "chunkName": "pages/shop/gym/components/logo-slider",
+    "_name": "_0f3cebf4"
+  },
+  {
+    "name": "shop-gym-components-product-list",
+    "path": "/shop/gym/components/product-list",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/components/product-list.vue",
+    "chunkName": "pages/shop/gym/components/product-list",
+    "_name": "_4cf43309"
+  },
+  {
+    "name": "shop-gym-components-slider",
+    "path": "/shop/gym/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/components/slider.vue",
+    "chunkName": "pages/shop/gym/components/slider",
+    "_name": "_10fe7a6e"
+  },
+  {
+    "name": "shop-gym-components-top-collection",
+    "path": "/shop/gym/components/top-collection",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/gym/components/top-collection.vue",
+    "chunkName": "pages/shop/gym/components/top-collection",
+    "_name": "_9f2687ba"
+  },
+  {
+    "name": "shop-jewellery-components-category",
+    "path": "/shop/jewellery/components/category",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/components/category.vue",
+    "chunkName": "pages/shop/jewellery/components/category",
+    "_name": "_77980953"
+  },
+  {
+    "name": "shop-jewellery-components-instagram",
+    "path": "/shop/jewellery/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/components/instagram.vue",
+    "chunkName": "pages/shop/jewellery/components/instagram",
+    "_name": "_53a8602d"
+  },
+  {
+    "name": "shop-jewellery-components-parallax-banner",
+    "path": "/shop/jewellery/components/parallax-banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/components/parallax-banner.vue",
+    "chunkName": "pages/shop/jewellery/components/parallax-banner",
+    "_name": "_41e83e5d"
+  },
+  {
+    "name": "shop-jewellery-components-product-slider",
+    "path": "/shop/jewellery/components/product-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/components/product-slider.vue",
+    "chunkName": "pages/shop/jewellery/components/product-slider",
+    "_name": "_25ab44d8"
+  },
+  {
+    "name": "shop-jewellery-components-product-tab",
+    "path": "/shop/jewellery/components/product-tab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/components/product-tab.vue",
+    "chunkName": "pages/shop/jewellery/components/product-tab",
+    "_name": "_79fe92f2"
+  },
+  {
+    "name": "shop-jewellery-components-services",
+    "path": "/shop/jewellery/components/services",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/components/services.vue",
+    "chunkName": "pages/shop/jewellery/components/services",
+    "_name": "_74b1acb3"
+  },
+  {
+    "name": "shop-jewellery-components-slider",
+    "path": "/shop/jewellery/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/jewellery/components/slider.vue",
+    "chunkName": "pages/shop/jewellery/components/slider",
+    "_name": "_286426f6"
+  },
+  {
+    "name": "shop-kids-components-collection_banner",
+    "path": "/shop/kids/components/collection_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/components/collection_banner.vue",
+    "chunkName": "pages/shop/kids/components/collection_banner",
+    "_name": "_112eb544"
+  },
+  {
+    "name": "shop-kids-components-collection_slider",
+    "path": "/shop/kids/components/collection_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/components/collection_slider.vue",
+    "chunkName": "pages/shop/kids/components/collection_slider",
+    "_name": "_76d5bc93"
+  },
+  {
+    "name": "shop-kids-components-instagram",
+    "path": "/shop/kids/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/components/instagram.vue",
+    "chunkName": "pages/shop/kids/components/instagram",
+    "_name": "_6353eba3"
+  },
+  {
+    "name": "shop-kids-components-logo_slider",
+    "path": "/shop/kids/components/logo_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/components/logo_slider.vue",
+    "chunkName": "pages/shop/kids/components/logo_slider",
+    "_name": "_095be226"
+  },
+  {
+    "name": "shop-kids-components-parallax_banner",
+    "path": "/shop/kids/components/parallax_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/components/parallax_banner.vue",
+    "chunkName": "pages/shop/kids/components/parallax_banner",
+    "_name": "_1e49c305"
+  },
+  {
+    "name": "shop-kids-components-product_slider",
+    "path": "/shop/kids/components/product_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/components/product_slider.vue",
+    "chunkName": "pages/shop/kids/components/product_slider",
+    "_name": "_00047590"
+  },
+  {
+    "name": "shop-kids-components-slider",
+    "path": "/shop/kids/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/kids/components/slider.vue",
+    "chunkName": "pages/shop/kids/components/slider",
+    "_name": "_4f633f40"
+  },
+  {
+    "name": "shop-pets-components-blog",
+    "path": "/shop/pets/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/components/blog.vue",
+    "chunkName": "pages/shop/pets/components/blog",
+    "_name": "_1261baf0"
+  },
+  {
+    "name": "shop-pets-components-collection-banner",
+    "path": "/shop/pets/components/collection-banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/components/collection-banner.vue",
+    "chunkName": "pages/shop/pets/components/collection-banner",
+    "_name": "_3cd81076"
+  },
+  {
+    "name": "shop-pets-components-logo-slider",
+    "path": "/shop/pets/components/logo-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/components/logo-slider.vue",
+    "chunkName": "pages/shop/pets/components/logo-slider",
+    "_name": "_20ef0966"
+  },
+  {
+    "name": "shop-pets-components-parallax-banner",
+    "path": "/shop/pets/components/parallax-banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/components/parallax-banner.vue",
+    "chunkName": "pages/shop/pets/components/parallax-banner",
+    "_name": "_165170a8"
+  },
+  {
+    "name": "shop-pets-components-product-slider",
+    "path": "/shop/pets/components/product-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/components/product-slider.vue",
+    "chunkName": "pages/shop/pets/components/product-slider",
+    "_name": "_aec52336"
+  },
+  {
+    "name": "shop-pets-components-slider",
+    "path": "/shop/pets/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/components/slider.vue",
+    "chunkName": "pages/shop/pets/components/slider",
+    "_name": "_07f998c7"
+  },
+  {
+    "name": "shop-pets-components-top-collection",
+    "path": "/shop/pets/components/top-collection",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/pets/components/top-collection.vue",
+    "chunkName": "pages/shop/pets/components/top-collection",
+    "_name": "_0d34717c"
+  },
+  {
+    "name": "shop-shoes-components-about",
+    "path": "/shop/shoes/components/about",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/about.vue",
+    "chunkName": "pages/shop/shoes/components/about",
+    "_name": "_25e4b2fa"
+  },
+  {
+    "name": "shop-shoes-components-blog",
+    "path": "/shop/shoes/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/blog.vue",
+    "chunkName": "pages/shop/shoes/components/blog",
+    "_name": "_7c9ce2c8"
+  },
+  {
+    "name": "shop-shoes-components-brand",
+    "path": "/shop/shoes/components/brand",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/brand.vue",
+    "chunkName": "pages/shop/shoes/components/brand",
+    "_name": "_0dfa417d"
+  },
+  {
+    "name": "shop-shoes-components-category",
+    "path": "/shop/shoes/components/category",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/category.vue",
+    "chunkName": "pages/shop/shoes/components/category",
+    "_name": "_447e8cf8"
+  },
+  {
+    "name": "shop-shoes-components-category2",
+    "path": "/shop/shoes/components/category2",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/category2.vue",
+    "chunkName": "pages/shop/shoes/components/category2",
+    "_name": "_4b6abb6a"
+  },
+  {
+    "name": "shop-shoes-components-category3",
+    "path": "/shop/shoes/components/category3",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/category3.vue",
+    "chunkName": "pages/shop/shoes/components/category3",
+    "_name": "_4b78d2eb"
+  },
+  {
+    "name": "shop-shoes-components-collectionbanner",
+    "path": "/shop/shoes/components/collectionbanner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/collectionbanner.vue",
+    "chunkName": "pages/shop/shoes/components/collectionbanner",
+    "_name": "_11d98744"
+  },
+  {
+    "name": "shop-shoes-components-collectionslider",
+    "path": "/shop/shoes/components/collectionslider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/collectionslider.vue",
+    "chunkName": "pages/shop/shoes/components/collectionslider",
+    "_name": "_dd72c30e"
+  },
+  {
+    "name": "shop-shoes-components-collectiontab",
+    "path": "/shop/shoes/components/collectiontab",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/collectiontab.vue",
+    "chunkName": "pages/shop/shoes/components/collectiontab",
+    "_name": "_0fe8f7a6"
+  },
+  {
+    "name": "shop-shoes-components-instagram",
+    "path": "/shop/shoes/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/instagram.vue",
+    "chunkName": "pages/shop/shoes/components/instagram",
+    "_name": "_23925128"
+  },
+  {
+    "name": "shop-shoes-components-productSlider",
+    "path": "/shop/shoes/components/productSlider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/productSlider.vue",
+    "chunkName": "pages/shop/shoes/components/productSlider",
+    "_name": "_d9f803b4"
+  },
+  {
+    "name": "shop-shoes-components-service",
+    "path": "/shop/shoes/components/service",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/service.vue",
+    "chunkName": "pages/shop/shoes/components/service",
+    "_name": "_6d5a362b"
+  },
+  {
+    "name": "shop-shoes-components-slider",
+    "path": "/shop/shoes/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/shoes/components/slider.vue",
+    "chunkName": "pages/shop/shoes/components/slider",
+    "_name": "_b81d604a"
+  },
+  {
+    "name": "shop-tools-components-about",
+    "path": "/shop/tools/components/about",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/about.vue",
+    "chunkName": "pages/shop/tools/components/about",
+    "_name": "_d8d77520"
+  },
+  {
+    "name": "shop-tools-components-category",
+    "path": "/shop/tools/components/category",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/category.vue",
+    "chunkName": "pages/shop/tools/components/category",
+    "_name": "_1076eaeb"
+  },
+  {
+    "name": "shop-tools-components-logo_slider",
+    "path": "/shop/tools/components/logo_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/logo_slider.vue",
+    "chunkName": "pages/shop/tools/components/logo_slider",
+    "_name": "_215818d0"
+  },
+  {
+    "name": "shop-tools-components-product-slider",
+    "path": "/shop/tools/components/product-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/product-slider.vue",
+    "chunkName": "pages/shop/tools/components/product-slider",
+    "_name": "_ab60a5a8"
+  },
+  {
+    "name": "shop-tools-components-product-tab-slider",
+    "path": "/shop/tools/components/product-tab-slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/product-tab-slider.vue",
+    "chunkName": "pages/shop/tools/components/product-tab-slider",
+    "_name": "_3a0a2e38"
+  },
+  {
+    "name": "shop-tools-components-select-vehical",
+    "path": "/shop/tools/components/select-vehical",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/select-vehical.vue",
+    "chunkName": "pages/shop/tools/components/select-vehical",
+    "_name": "_1917b68c"
+  },
+  {
+    "name": "shop-tools-components-service",
+    "path": "/shop/tools/components/service",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/service.vue",
+    "chunkName": "pages/shop/tools/components/service",
+    "_name": "_e6966450"
+  },
+  {
+    "name": "shop-tools-components-slider",
+    "path": "/shop/tools/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/tools/components/slider.vue",
+    "chunkName": "pages/shop/tools/components/slider",
+    "_name": "_6382e2e4"
+  },
+  {
+    "name": "shop-vegetables-components-banner",
+    "path": "/shop/vegetables/components/banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/vegetables/components/banner.vue",
+    "chunkName": "pages/shop/vegetables/components/banner",
+    "_name": "_55ab6c50"
+  },
+  {
+    "name": "shop-vegetables-components-blog",
+    "path": "/shop/vegetables/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/vegetables/components/blog.vue",
+    "chunkName": "pages/shop/vegetables/components/blog",
+    "_name": "_1785a4c6"
+  },
+  {
+    "name": "shop-vegetables-components-product_slider",
+    "path": "/shop/vegetables/components/product_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/vegetables/components/product_slider.vue",
+    "chunkName": "pages/shop/vegetables/components/product_slider",
+    "_name": "_24a7a4d5"
+  },
+  {
+    "name": "shop-vegetables-components-services",
+    "path": "/shop/vegetables/components/services",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/vegetables/components/services.vue",
+    "chunkName": "pages/shop/vegetables/components/services",
+    "_name": "_747dbcfc"
+  },
+  {
+    "name": "shop-vegetables-components-slider",
+    "path": "/shop/vegetables/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/vegetables/components/slider.vue",
+    "chunkName": "pages/shop/vegetables/components/slider",
+    "_name": "_55cef8f6"
+  },
+  {
+    "name": "shop-vegetables-components-special_products",
+    "path": "/shop/vegetables/components/special_products",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/vegetables/components/special_products.vue",
+    "chunkName": "pages/shop/vegetables/components/special_products",
+    "_name": "_5cc8814e"
+  },
+  {
+    "name": "shop-watch-components-blog",
+    "path": "/shop/watch/components/blog",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/blog.vue",
+    "chunkName": "pages/shop/watch/components/blog",
+    "_name": "_6c7c51fa"
+  },
+  {
+    "name": "shop-watch-components-category",
+    "path": "/shop/watch/components/category",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/category.vue",
+    "chunkName": "pages/shop/watch/components/category",
+    "_name": "_7e536c42"
+  },
+  {
+    "name": "shop-watch-components-categorytabs",
+    "path": "/shop/watch/components/categorytabs",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/categorytabs.vue",
+    "chunkName": "pages/shop/watch/components/categorytabs",
+    "_name": "_67ef92dd"
+  },
+  {
+    "name": "shop-watch-components-collectionbanners",
+    "path": "/shop/watch/components/collectionbanners",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/collectionbanners.vue",
+    "chunkName": "pages/shop/watch/components/collectionbanners",
+    "_name": "_00384d50"
+  },
+  {
+    "name": "shop-watch-components-instagram",
+    "path": "/shop/watch/components/instagram",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/instagram.vue",
+    "chunkName": "pages/shop/watch/components/instagram",
+    "_name": "_32323121"
+  },
+  {
+    "name": "shop-watch-components-logo_slider",
+    "path": "/shop/watch/components/logo_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/logo_slider.vue",
+    "chunkName": "pages/shop/watch/components/logo_slider",
+    "_name": "_cc827fb8"
+  },
+  {
+    "name": "shop-watch-components-product_slider",
+    "path": "/shop/watch/components/product_slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/product_slider.vue",
+    "chunkName": "pages/shop/watch/components/product_slider",
+    "_name": "_614beed2"
+  },
+  {
+    "name": "shop-watch-components-services",
+    "path": "/shop/watch/components/services",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/services.vue",
+    "chunkName": "pages/shop/watch/components/services",
+    "_name": "_84202582"
+  },
+  {
+    "name": "shop-watch-components-slider",
+    "path": "/shop/watch/components/slider",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/slider.vue",
+    "chunkName": "pages/shop/watch/components/slider",
+    "_name": "_2dddcafc"
+  },
+  {
+    "name": "shop-watch-components-timer_banner",
+    "path": "/shop/watch/components/timer_banner",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/timer_banner.vue",
+    "chunkName": "pages/shop/watch/components/timer_banner",
+    "_name": "_2539f9c7"
+  },
+  {
+    "name": "shop-watch-components-top_products",
+    "path": "/shop/watch/components/top_products",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/shop/watch/components/top_products.vue",
+    "chunkName": "pages/shop/watch/components/top_products",
+    "_name": "_1bee296f"
+  },
+  {
+    "name": "collection-leftsidebar-id",
+    "path": "/collection/leftsidebar/:id?",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/collection/leftsidebar/_id.vue",
+    "chunkName": "pages/collection/leftsidebar/_id",
+    "_name": "_875dac60"
+  },
+  {
+    "name": "product-sidebar-id",
+    "path": "/product/sidebar/:id?",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/sidebar/_id.vue",
+    "chunkName": "pages/product/sidebar/_id",
+    "_name": "_2d979ed4"
+  },
+  {
+    "name": "product-single-id",
+    "path": "/product/single/:id?",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/product/single/_id.vue",
+    "chunkName": "pages/product/single/_id",
+    "_name": "_fe152e98"
+  },
+  {
+    "name": "service-id",
+    "path": "/service/:id",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/service/_id.vue",
+    "chunkName": "pages/service/_id",
+    "_name": "_6ea681e2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/trmdll/Documents/projects/karaclub/git/karaclub/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3117ee7e"
+  }
+]
